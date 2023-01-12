@@ -1,0 +1,2 @@
+(this.webpackJsonprizzlers=this.webpackJsonprizzlers||[]).push([[0],{12:function(e,t,r){},14:function(e,t,r){"use strict";r.r(t);var c=r(1),s=r(3),n=(r(12),r(0));function i(){return Object(n.jsxs)("div",{className:"App",children:[Object(n.jsx)("h1",{children:"Rizzlers.org"}),Object(n.jsx)("h5",{children:"play"})]})}var o=document.getElementById("root");Object(s.createRoot)(o).render(Object(n.jsx)(c.StrictMode,{children:Object(n.jsx)(i,{})}))}},[[14,1,2]]]);
+//# sourceMappingURL=main.976fb0bd.chunk.js.map
